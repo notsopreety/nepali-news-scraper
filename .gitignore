@@ -1,0 +1,7 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+#ignore this
+kathmandupost-scraper.js
+kantipur-scraper.js
