@@ -12,7 +12,7 @@ A powerful Node.js package to scrape news from popular Nepali news portals inclu
 - Title
 - Author
 - Published Date
-- Updated Date (Kathmandu Post only)
+- Updated Date
 - Summary
 - Full Content
 - Article URL
