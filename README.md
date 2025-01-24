@@ -191,7 +191,7 @@ MIT
 ## Support
 
 If you encounter any issues or have questions, please:
-1. Check the [issues page](https://github.com/yourusername/nepali-news-scraper/issues)
+1. Check the [issues page](https://github.com/notsopreety/nepali-news-scraper/issues)
 2. Create a new issue if needed
 3. Provide detailed information about the problem
 
